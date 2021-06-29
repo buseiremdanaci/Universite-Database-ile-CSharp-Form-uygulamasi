@@ -1,0 +1,89 @@
+C:\Users\bsrmd\source\repos\VakifbankProje\VakifbankProje\bin\Debug\VakifbankProje.exe.config
+C:\Users\bsrmd\source\repos\VakifbankProje\VakifbankProje\bin\Debug\VakifbankProje.exe
+C:\Users\bsrmd\source\repos\VakifbankProje\VakifbankProje\bin\Debug\VakifbankProje.pdb
+C:\Users\bsrmd\source\repos\VakifbankProje\VakifbankProje\obj\Debug\VakifbankProje.csproj.AssemblyReference.cache
+C:\Users\bsrmd\source\repos\VakifbankProje\VakifbankProje\obj\Debug\VakifbankProje.Properties.Resources.resources
+C:\Users\bsrmd\source\repos\VakifbankProje\VakifbankProje\obj\Debug\VakifbankProje.csproj.GenerateResource.cache
+C:\Users\bsrmd\source\repos\VakifbankProje\VakifbankProje\obj\Debug\VakifbankProje.csproj.CoreCompileInputs.cache
+C:\Users\bsrmd\source\repos\VakifbankProje\VakifbankProje\obj\Debug\VakifbankProje.exe
+C:\Users\bsrmd\source\repos\VakifbankProje\VakifbankProje\obj\Debug\VakifbankProje.pdb
+C:\Users\bsrmd\source\repos\VakifbankProje\VakifbankProje\obj\Debug\VakifbankProje.UniversiteDb.resources
+C:\Users\bsrmd\source\repos\VakifbankProje\VakifbankProje\obj\Debug\VakifbankProje.Admin.resources
+C:\Users\bsrmd\source\repos\VakifbankProje\VakifbankProje\obj\Debug\VakifbankProje.GirisEkran.resources
+C:\Users\bsrmd\source\repos\VakifbankProje\VakifbankProje\obj\Debug\VakifbankProje.SifremiUnuttum.resources
+C:\Users\oguzh\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.csprojAssemblyReference.cache
+C:\Users\oguzh\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.Admin.resources
+C:\Users\oguzh\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.UniversiteDb.resources
+C:\Users\oguzh\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.GirisEkran.resources
+C:\Users\oguzh\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.Properties.Resources.resources
+C:\Users\oguzh\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.SifremiUnuttum.resources
+C:\Users\oguzh\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.csproj.GenerateResource.cache
+C:\Users\oguzh\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.exe
+C:\Users\oguzh\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.pdb
+C:\Users\oguzh\Desktop\VakifbankProje1\VakifbankProje\bin\Debug\VakifbankProje.exe.config
+C:\Users\oguzh\Desktop\VakifbankProje1\VakifbankProje\bin\Debug\VakifbankProje.exe
+C:\Users\oguzh\Desktop\VakifbankProje1\VakifbankProje\bin\Debug\VakifbankProje.pdb
+C:\Users\bsrmd\Desktop\VakifbankProje1\VakifbankProje\bin\Debug\VakifbankProje.exe.config
+C:\Users\bsrmd\Desktop\VakifbankProje1\VakifbankProje\bin\Debug\VakifbankProje.exe
+C:\Users\bsrmd\Desktop\VakifbankProje1\VakifbankProje\bin\Debug\VakifbankProje.pdb
+C:\Users\bsrmd\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.csproj.AssemblyReference.cache
+C:\Users\bsrmd\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.Admin.resources
+C:\Users\bsrmd\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.UniversiteDb.resources
+C:\Users\bsrmd\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.GirisEkran.resources
+C:\Users\bsrmd\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.Properties.Resources.resources
+C:\Users\bsrmd\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.SifremiUnuttum.resources
+C:\Users\bsrmd\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.csproj.GenerateResource.cache
+C:\Users\bsrmd\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.csproj.CoreCompileInputs.cache
+C:\Users\bsrmd\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.exe
+C:\Users\bsrmd\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.pdb
+C:\Users\bsrmd\Desktop\VakifbankProje1\VakifbankProje\obj\Debug\VakifbankProje.Ayarlar.resources
+C:\Users\oguzh\Desktop\VakifbankProje3\VakifbankProje\bin\Debug\VakifbankProje.exe.config
+C:\Users\oguzh\Desktop\VakifbankProje3\VakifbankProje\bin\Debug\VakifbankProje.exe
+C:\Users\oguzh\Desktop\VakifbankProje3\VakifbankProje\bin\Debug\VakifbankProje.pdb
+C:\Users\oguzh\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.csprojAssemblyReference.cache
+C:\Users\oguzh\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.Admin.resources
+C:\Users\oguzh\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.Ayarlar.resources
+C:\Users\oguzh\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.UniversiteDb.resources
+C:\Users\oguzh\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.GirisEkran.resources
+C:\Users\oguzh\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.Properties.Resources.resources
+C:\Users\oguzh\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.SifremiUnuttum.resources
+C:\Users\oguzh\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.csproj.GenerateResource.cache
+C:\Users\oguzh\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.exe
+C:\Users\oguzh\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.pdb
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\bin\Debug\VakifbankProje.exe.config
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\bin\Debug\VakifbankProje.exe
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\bin\Debug\VakifbankProje.pdb
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.Admin.resources
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.Ayarlar.resources
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.UniversiteDb.resources
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.GirisEkran.resources
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.Properties.Resources.resources
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.SifremiUnuttum.resources
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.csproj.GenerateResource.cache
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.csproj.CoreCompileInputs.cache
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.exe
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.pdb
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.devamSifre.resources
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.ogrenciAyar.resources
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\bin\Debug\VakifbankProje.exe.config
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\bin\Debug\VakifbankProje.exe
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\bin\Debug\VakifbankProje.pdb
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.Admin.resources
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.Ayarlar.resources
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.UniversiteDb.resources
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.GirisEkran.resources
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.ogrenciAyar.resources
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.Properties.Resources.resources
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.SifremiUnuttum.resources
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.devamSifre.resources
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.csproj.GenerateResource.cache
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.csproj.CoreCompileInputs.cache
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.exe
+C:\Users\bsrmd\Desktop\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.pdb
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.csproj.AssemblyReference.cache
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.KodTanima.resources
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\bin\Debug\IronOcr.dll
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\bin\Debug\IronOcr.xml
+C:\Users\bsrmd\Desktop\Yeni klasör (2)\VakifbankProje3\VakifbankProje\obj\Debug\VakifbankProje.csproj.CopyComplete
